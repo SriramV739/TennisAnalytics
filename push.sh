@@ -1,4 +1,5 @@
 #!/bin/ksh
+cd /Users/sriram/Downloads/tennisanalytics/
 find .  -type d -name .git -prune -o -print > /tmp/s
 for i in `cat /tmp/s`
 do
