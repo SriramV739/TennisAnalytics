@@ -10,7 +10,7 @@ import sys
 from datetime import datetime, timedelta
 
 # Read CSV File
-df=pd.read_csv('/Users/sriram/Downloads/tennisanalytics/data/atp_matches_2022.csv',nrows=1000)
+df=pd.read_csv('/Users/sriram/Downloads/tennisanalytics/data/atp_matches_2022.csv')
 
 fout=open("winners.out","w")
 
