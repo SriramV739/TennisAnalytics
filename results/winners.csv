@@ -1,72 +1,69 @@
 tourney_name,winner_name,loser_name
-Atp Cup,Felix Auger Aliassime,Roberto Bautista Agut
-Atp Cup,Denis Shapovalov,Pablo Carreno Busta
-Adelaide 1,Gael Monfils,Karen Khachanov
-Melbourne,Rafael Nadal,Maxime Cressy
-Adelaide 2,Thanasi Kokkinakis,Arthur Rinderknech
-Sydney,Aslan Karatsev,Andy Murray
-Australian Open,Rafael Nadal,Daniil Medvedev
-Cordoba,Albert Ramos,Alejandro Tabilo
-Montpellier,Alexander Bublik,Alexander Zverev
-Pune,Joao Sousa,Emil Ruusuvuori
-Buenos Aires,Casper Ruud,Diego Schwartzman
-Rotterdam,Felix Auger Aliassime,Stefanos Tsitsipas
-Dallas,Reilly Opelka,Jenson Brooksby
-Delray Beach,Cameron Norrie,Reilly Opelka
-Doha,Roberto Bautista Agut,Nikoloz Basilashvili
-Rio de Janeiro,Carlos Alcaraz,Diego Schwartzman
-Marseille,Andrey Rublev,Felix Auger Aliassime
-Acapulco,Rafael Nadal,Cameron Norrie
-Dubai,Andrey Rublev,Jiri Vesely
-Santiago,Pedro Martinez,Sebastian Baez
-Indian Wells Masters,Taylor Fritz,Rafael Nadal
-Miami Masters,Carlos Alcaraz,Casper Ruud
-Houston,Reilly Opelka,John Isner
-Marrakech,David Goffin,Alex Molcan
-Monte Carlo Masters,Stefanos Tsitsipas,Alejandro Davidovich Fokina
-Barcelona,Carlos Alcaraz,Pablo Carreno Busta
-Belgrade ,Andrey Rublev,Novak Djokovic
-Estoril,Sebastian Baez,Frances Tiafoe
-Munich,Holger Rune,Botic Van De Zandschulp
-Madrid Masters,Carlos Alcaraz,Alexander Zverev
-Rome Masters,Novak Djokovic,Stefanos Tsitsipas
-Geneva,Casper Ruud,Joao Sousa
-Lyon,Cameron Norrie,Alex Molcan
-Roland Garros,Rafael Nadal,Casper Ruud
-s Hertogenbosch,Tim Van Rijthoven,Daniil Medvedev
-Stuttgart,Matteo Berrettini,Andy Murray
-Halle,Hubert Hurkacz,Daniil Medvedev
-Queen's Club,Matteo Berrettini,Filip Krajinovic
-Mallorca,Stefanos Tsitsipas,Roberto Bautista Agut
-Eastbourne,Taylor Fritz,Maxime Cressy
-Wimbledon,Novak Djokovic,Nick Kyrgios
-Bastad,Francisco Cerundolo,Sebastian Baez
-Newport,Maxime Cressy,Alexander Bublik
-Hamburg,Lorenzo Musetti,Carlos Alcaraz
-Gstaad,Casper Ruud,Matteo Berrettini
-Atlanta,Alex De Minaur,Jenson Brooksby
-Kitzbuhel,Roberto Bautista Agut,Filip Misolic
-Umag,Jannik Sinner,Carlos Alcaraz
-Los Cabos,Daniil Medvedev,Cameron Norrie
-Washington,Nick Kyrgios,Yoshihito Nishioka
-Canada Masters,Pablo Carreno Busta,Hubert Hurkacz
-Cincinnati Masters,Borna Coric,Stefanos Tsitsipas
-Winston-Salem,Adrian Mannarino,Laslo Djere
-Us Open,Carlos Alcaraz,Casper Ruud
-San Diego,Brandon Nakashima,Marcos Giron
-Metz,Lorenzo Sonego,Alexander Bublik
-Seoul,Yoshihito Nishioka,Denis Shapovalov
-Sofia,Marc Andrea Huesler,Holger Rune
-Tel Aviv,Novak Djokovic,Marin Cilic
-Astana,Novak Djokovic,Stefanos Tsitsipas
-Tokyo,Taylor Fritz,Frances Tiafoe
-Florence,Felix Auger Aliassime,J J Wolf
-Gijon,Andrey Rublev,Sebastian Korda
-Naples,Lorenzo Musetti,Matteo Berrettini
-Stockholm,Holger Rune,Stefanos Tsitsipas
-Antwerp,Felix Auger Aliassime,Sebastian Korda
-Basel,Felix Auger Aliassime,Holger Rune
-Vienna,Daniil Medvedev,Denis Shapovalov
-Paris Masters,Holger Rune,Novak Djokovic
-NextGen Finals,Brandon Nakashima,Jiri Lehecka
-Tour Finals,Novak Djokovic,Casper Ruud
+Brisbane,Andy Murray,Alexandr Dolgopolov
+Chennai,Milos Raonic,Janko Tipsarevic
+Doha,Jo-Wilfried Tsonga,Gael Monfils
+Auckland,David Ferrer,Olivier Rochus
+Sydney,Jarkko Nieminen,Julien Benneteau
+Australian Open,Novak Djokovic,Rafael Nadal
+Montpellier,Tomas Berdych,Gael Monfils
+Santiago,Juan Monaco,Carlos Berlocq
+Zagreb,Mikhail Youzhny,Lukas Lacko
+Rotterdam,Roger Federer,Juan Martin del Potro
+San Jose,Milos Raonic,Denis Istomin
+Sao Paulo,Nicolas Almagro,Filippo Volandri
+Buenos Aires,David Ferrer,Nicolas Almagro
+Marseille,Juan Martin del Potro,Michael Llodra
+Memphis,Jurgen Melzer,Milos Raonic
+Acapulco,David Ferrer,Fernando Verdasco
+Delray Beach,Kevin Anderson,Marinko Matosevic
+Dubai,Roger Federer,Andy Murray
+Indian Wells Masters,Roger Federer,John Isner
+Miami Masters,Novak Djokovic,Andy Murray
+Casablanca,Pablo Andujar,Albert Ramos
+Houston,Juan Monaco,John Isner
+Monte Carlo Masters,Rafael Nadal,Novak Djokovic
+Barcelona,Rafael Nadal,David Ferrer
+Bucharest,Gilles Simon,Fabio Fognini
+Belgrade,Andreas Seppi,Benoit Paire
+Estoril,Juan Martin del Potro,Richard Gasquet
+Munich,Philipp Kohlschreiber,Marin Cilic
+Madrid Masters,Roger Federer,Tomas Berdych
+Rome Masters,Rafael Nadal,Novak Djokovic
+Nice,Nicolas Almagro,Brian Baker
+Dusseldorf,Janko Tipsarevic,Tomas Berdych
+Dusseldorf,Viktor Troicki,Radek Stepanek
+Roland Garros,Rafael Nadal,Novak Djokovic
+Halle,Tommy Haas,Roger Federer
+Queen's Club,Marin Cilic,David Nalbandian
+s Hertogenbosch,David Ferrer,Philipp Petzschner
+Eastbourne,Andy Roddick,Andreas Seppi
+Wimbledon,Roger Federer,Andy Murray
+Bastad,David Ferrer,Nicolas Almagro
+Newport,John Isner,Lleyton Hewitt
+Stuttgart,Janko Tipsarevic,Juan Monaco
+Umag,Marin Cilic,Marcel Granollers
+Atlanta,Andy Roddick,Gilles Muller
+Gstaad,Thomaz Bellucci,Janko Tipsarevic
+Hamburg,Juan Monaco,Tommy Haas
+Kitzbuhel,Robin Haase,Philipp Kohlschreiber
+Los Angeles,Sam Querrey,Ricardas Berankis
+London Olympics,Andy Murray,Roger Federer
+Washington,Alexandr Dolgopolov,Tommy Haas
+Canada Masters,Novak Djokovic,Richard Gasquet
+Cincinnati Masters,Roger Federer,Novak Djokovic
+Winston-Salem,John Isner,Tomas Berdych
+US Open,Andy Murray,Novak Djokovic
+Metz,Jo-Wilfried Tsonga,Andreas Seppi
+St. Petersburg,Martin Klizan,Fabio Fognini
+Bangkok,Richard Gasquet,Gilles Simon
+Kuala Lumpur,Juan Monaco,Julien Benneteau
+Beijing,Novak Djokovic,Jo-Wilfried Tsonga
+Tokyo,Kei Nishikori,Milos Raonic
+Shanghai Masters,Novak Djokovic,Andy Murray
+Moscow,Andreas Seppi,Thomaz Bellucci
+Stockholm,Tomas Berdych,Jo-Wilfried Tsonga
+Vienna,Juan Martin del Potro,Grega Zemlja
+Valencia,David Ferrer,Alexandr Dolgopolov
+Basel,Juan Martin del Potro,Roger Federer
+Paris Masters,David Ferrer,Jerzy Janowicz
+Tour Finals,Novak Djokovic,Roger Federer
